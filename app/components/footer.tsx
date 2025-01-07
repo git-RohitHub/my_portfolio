@@ -6,7 +6,7 @@ export function Footer() {
     <footer className="bg-gray-100 dark:bg-gray-800 py-6">
       <div className="container mx-auto px-4">
         <div className="flex justify-center items-center space-x-6">
-          <Link href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors">
+          <Link href="https://www.linkedin.com/in/rohit-kumar-b28291228/" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors">
             <Linkedin className="h-6 w-6" />
             <span className="sr-only">LinkedIn</span>
           </Link>
