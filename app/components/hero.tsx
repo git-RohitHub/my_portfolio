@@ -27,7 +27,7 @@ export function Hero() {
             </a>
           </Button>
           <Button variant="ghost" asChild className="group">
-            <a href="/new_updated_cv.pdf" target="_blank" rel="noopener noreferrer">
+            <a href="/Rohit_Kumar_CV.pdf" target="_blank" rel="noopener noreferrer">
               Resume
               <FileText className="ml-2 h-4 w-4 transition-transform group-hover:scale-110" />
             </a>
